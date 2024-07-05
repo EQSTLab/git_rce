@@ -1,5 +1,5 @@
 # CVE-2024-32002 PoC
-1. You must set up the git's symbolic link option like this:
+1. You must set up the git's symbolic link option like:
 ```
 git config --global core.symlinks true
 ```
