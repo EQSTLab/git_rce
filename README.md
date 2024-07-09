@@ -10,7 +10,8 @@ git clone --recursive https://github.com/EQSTSeminar/git_rce.git
 ```
 
 # Attack Scenario
-kali(192.168.216.129) --Give remote repository address--> Win(192.168.216.130)\n
+kali(192.168.216.129) --Give remote repository address--> Win(192.168.216.130)
+
 kali(192.168.216.129) <--Git clone && hook script(post-checkout) execution-- Win(192.168.216.130)
 
 # Warning
